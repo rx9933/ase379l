@@ -1,4 +1,4 @@
-# filename: heat_rod.py
+
 import sympy as sp
 import numpy as np
 
